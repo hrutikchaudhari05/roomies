@@ -38,3 +38,48 @@ Roomies aims to **reduce disputes, save time, and simplify flatmate collaboratio
 
 ## 🗂️ Project Structure
 
+---
+
+## 📋 Planned Features
+
+### **MVP (Version 1)**
+- User registration & login with JWT
+- Group creation, joining, and invitations
+- Expense addition and splitting among group members
+- Optimized settlement algorithm to minimize transactions
+- Dashboard to view balances and group summaries
+
+### **Version 2 (Future)**
+- Task & chore assignment with reminders
+- UPI / Payment integration linked to expenses
+- Analytics dashboard for contributions and task completion
+- Responsive UI for mobile devices
+
+---
+
+## 🔄 Workflow
+
+1. User registers and logs in  
+2. Creates or joins a group  
+3. Adds expenses → selects members involved  
+4. Settlement algorithm calculates who owes whom  
+5. Dashboard displays balances and summaries  
+6. Future: Assign tasks, send reminders, integrate payments  
+
+---
+
+## ⚡ Notes
+
+- This is an **ongoing project**; currently no module is fully implemented  
+- Repo will be **actively updated with commits** as development progresses  
+- The project is designed to demonstrate **MERN full-stack architecture and algorithmic problem solving**  
+
+---
+
+## 💡 Project Goals
+
+- Showcase **MERN architecture** and **full-stack problem solving**  
+- Implement **real-world algorithms** (settlement optimization)  
+- Provide **modular, scalable solution** for shared flat collaboration  
+
+---
