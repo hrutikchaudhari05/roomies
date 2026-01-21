@@ -1,61 +1,61 @@
-# Roomies – Smart Flatmate Collaboration Tool (MERN, In Development)
+# Roomies – Group Expense Management System (MERN Stack Project)
 
-## 🚀 Project Overview
-Roomies is a **full-stack MERN platform** designed to streamline co-living for shared flats, automating:
+## 📋 Project Overview
+A **full-stack web application in development** aimed at simplifying expense tracking for shared living situations. Built with the MERN stack (MongoDB, Express, React, Node.js) as a comprehensive learning project.
 
-- Group expense tracking and optimized settlements
-- Contribution dashboards for tasks and chores
-- Planned modules: task management, reminders, and UPI-based payments
+**Current Status:** Under Active Development  
+**Focus:** Implementing full-stack architecture, real-world algorithms, and scalable design patterns.
 
-> **Status:** In active development. Core architecture planned; no modules are fully implemented yet.  
+## 🎯 Learning Objectives
+This project serves as a hands-on exploration of:
+- Complete MERN stack implementation from scratch
+- Designing optimized algorithms for real-world problems
+- Building secure authentication and authorization systems
+- Creating responsive UIs with modern frameworks
+- Implementing clean, maintainable architecture
 
----
+## 🏗️ Planned Technical Implementation
 
-## 🧾 Vision
-Shared living often leads to confusion over expenses, chores, and contributions.  
-Roomies aims to **reduce disputes, save time, and simplify flatmate collaboration** through:
+### **Technology Stack**
+- **Frontend:** React with functional components & Hooks
+- **State Management:** Context API (with Redux planning for complex state)
+- **Styling:** Tailwind CSS for utility-first responsive design
+- **Backend:** Node.js with Express framework
+- **Database:** MongoDB using Mongoose ODM
+- **Authentication:** JWT-based token system
+- **API Design:** RESTful architecture
 
-- Automated expense splits
-- Minimal transaction settlements
-- Clear dashboards for task and expense tracking
-- Modular design to allow easy addition of new features
+### **Core Features in Development**
 
----
+#### 1. **Authentication & Authorization Module**
+- User registration and login flows
+- JWT token management
+- Protected routes and API endpoints
 
-## 🛠️ Tech Stack
+#### 2. **Group Management System**
+- Create, join, and manage groups
+- Invitation mechanisms for members
+- Role-based access control
 
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | React, Redux, Tailwind CSS, Axios |
-| **Backend** | Node.js, Express, Express Validator, JWT Authentication |
-| **Database** | MongoDB (Mongoose) |
-| **File Storage** | Cloudinary (optional, for receipts / profile images) |
-| **Deployment** | Vercel (Frontend), Render / Railway (Backend) |
-| **Utilities / Libraries** | Lodash, Moment.js, dotenv |
-| **Version Control** | Git & GitHub |
+#### 3. **Expense Management Engine**
+- Add, edit, and track shared expenses
+- Implement multiple splitting strategies:
+  - Equal splits among members
+  - Percentage-based distribution
+  - Custom amount allocations
+- Real-time balance calculations
 
----
+#### 4. **Dashboard & Reporting**
+- Visual representation of group balances
+- Transaction history and filtering
+- Summary statistics and insights
 
-## 🗂️ Project Structure
-
----
-
-## 📋 Planned Features
-
-### **MVP (Version 1)**
-- User registration & login with JWT
-- Group creation, joining, and invitations
-- Expense addition and splitting among group members
-- Optimized settlement algorithm to minimize transactions
-- Dashboard to view balances and group summaries
-
-### **Version 2 (Future)**
-- Task & chore assignment with reminders
-- UPI / Payment integration linked to expenses
-- Analytics dashboard for contributions and task completion
-- Responsive UI for mobile devices
-
----
+### **Key Technical Challenges to Solve**
+- **Algorithm Design:** Creating efficient settlement calculations to minimize transactions
+- **Database Schema:** Designing optimized MongoDB models for group operations
+- **State Management:** Handling complex nested state updates in React
+- **API Security:** Implementing robust middleware for authentication and validation
+- **Error Handling:** Building comprehensive error handling on both client and server
 
 ## 🔄 Workflow
 
