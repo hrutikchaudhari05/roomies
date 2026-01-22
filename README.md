@@ -1,4 +1,4 @@
-# Roomies – Group Expense Management (MERN Project)
+# Roomies – Group Expense Management (MERN)
 
 ## 🚀 Project Overview
 Roomies is a **full-stack MERN application** for tracking and splitting shared expenses among friends or colleagues during trips, events, or group activities.
